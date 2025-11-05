@@ -1,12 +1,11 @@
-<!-- Banner -->
-![Header](https://github.com/aljgga/banner/blob/ca211cb5f766c29a0fc6ac9485287f47d3825df0/github-header-banner%20(2).png)  <!-- Aquí puedes subir tu propio banner a imgur o GitHub y reemplazar el enlace -->
 
-# 👩‍💻 Noelia Navarro
-### *Data Analyst*
+![Header](https://github.com/aljgga/banner/blob/ca211cb5f766c29a0fc6ac9485287f47d3825df0/github-header-banner%20(2).png) 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
-[![Página Web](https://img.shields.io/badge/WebSite-00A86B?style=for-the-badge&logo=About.me&logoColor=white)](https://tuweb.com)
+#  Gabriel Gonzalez
+### *Data Scientist*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-gonzález-483b4456)
+
 
 👀 **Visitors:** ![Visitas](https://komarev.com/ghpvc/?username=NoeliaNavarro&color=blue)
 
