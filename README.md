@@ -4,7 +4,7 @@
 #  Gabriel Gonzalez
 ### Data Scientist
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-gonzález-483b4456)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-gonzález-483b4456)
 
 
 **Visitors:** ![Visitas](https://komarev.com/ghpvc/?username=NoeliaNavarro&color=blue)
@@ -18,7 +18,7 @@ Estoy haciendo la transición laboral hacia el **La Ciencia de datos**
 - Actualmente trabajo para NIELSEN como Panel relation specialist. 
 - Tome un bootcamp de Data Science en TripleTen donde aprendi **SQL** y **Python**.
 - Me interesa la posibilidad de utilizar lo aprendido en mi bootcamp.  
-- [**Contáctame aquí**](www.linkedin.com/in/gabriel-gonzález-483b4456))
+- [**Contáctame aquí**](https://www.linkedin.com/in/gabriel-gonzález-483b4456))
 
 ---
 
