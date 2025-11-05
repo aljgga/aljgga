@@ -1,6 +1,6 @@
 ## Hi there 👋
-
-<!--
+![Header]([https://i.imgur.com/yourbanner.png](https://github.com/aljgga/banner/blob/main/github-header-banner%20(2).png))
+<!-- 
 **aljgga/aljgga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
