@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Header]([github-header-banner (2).png](https://github.com/aljgga/banner/blob/main/github-header-banner%20(2).png)) <!-- Aquí puedes subir tu propio banner a imgur o GitHub y reemplazar el enlace -->
+![Header](https://github.com/aljgga/banner/blob/ca211cb5f766c29a0fc6ac9485287f47d3825df0/github-header-banner%20(2).png)  <!-- Aquí puedes subir tu propio banner a imgur o GitHub y reemplazar el enlace -->
 
 # 👩‍💻 Noelia Navarro
 ### *Data Analyst*
