@@ -2,7 +2,7 @@
 ![Header](https://github.com/aljgga/banner/blob/ca211cb5f766c29a0fc6ac9485287f47d3825df0/github-header-banner%20(2).png) 
 
 #  Gabriel Gonzalez
-### *Data Scientist*
+### Data Scientist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-gonzález-483b4456)
 
@@ -11,39 +11,23 @@
 
 ---
 
-## 👋 ¡Hola, soy Noelia! ¡Encantada de conocerte!
+## Soy Gabriel
 
-### 🧠 Sobre mí  
-Apasionada por la tecnología y disfrutando de una transición laboral hacia el **Data Analytics** 🚀  
+### Acerca de mí  
+Estoy haciendo la transición laboral hacia el **Data la Ciencia de datos** 
 
-- 💼 Actualmente trabajo en el departamento de compras de una empresa retail de alimentos, pero busco nuevos retos 💪  
-- 📚 Estoy estudiando y practicando **SQL** y **Python**, además de usar herramientas de **Microsoft**.  
-- ❤️ Me encanta descubrir nuevas formas de automatizar mi trabajo.  
-- 📩 ¿Quieres contactarme? → [**Contáctame aquí**](https://www.linkedin.com/)
+- Actualmente trabajo para NIELSEN como Panel relation specialist. 
+- Tome un bootcamp de Data Science en TripleTen donde aprendi **SQL** y **Python**.
+- Me interesa la posibilidad de utilizar lo aprendido en mi bootcamp.  
+- Puedes contactarme aqui → [**Contáctame aquí**](www.linkedin.com/in/gabriel-gonzález-483b4456))
 
 ---
 
 ## 🛠️ Lenguajes y herramientas  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 🔥 Mis estadísticas  
 
-| 💡 Total Contributions | 🔥 Current Streak | ⏱️ Longest Streak |
-|-----------------------|------------------|------------------|
-| **123** (Jun 10 – Present) | **0** (Sep 28) | **4** (Sep 2 – Sep 5) |
-
----
-
-## 📊 Lenguajes más usados  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoeliaNavarro&layout=compact&theme=react&langs_count=6&hide_border=true)
-
----
-
-✨ *“Siempre aprendiendo, siempre creando.”*  
