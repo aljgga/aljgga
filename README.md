@@ -18,7 +18,7 @@ Estoy haciendo la transición laboral hacia el **La Ciencia de datos**
 - Actualmente trabajo para NIELSEN como Panel relation specialist. 
 - Tome un bootcamp de Data Science en TripleTen donde aprendi **SQL** y **Python**.
 - Me interesa la posibilidad de utilizar lo aprendido en mi bootcamp.  
-- [**Contáctame aquí**](https://www.linkedin.com/in/gabriel-gonzález-483b4456))
+- [**Contáctame aquí**](https://www.linkedin.com/in/gabriel-gonzález-483b4456)
 
 ---
 
