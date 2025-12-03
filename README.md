@@ -1,5 +1,5 @@
 
-![Header](https://github.com/aljgga/banner/blob/ca211cb5f766c29a0fc6ac9485287f47d3825df0/github-header-banner%20(2).png) 
+![Header](https://github.com/aljgga/banner2/issues/1#issue-3691299852) 
 
 #  Gabriel Gonzalez
 ### Data Scientist
